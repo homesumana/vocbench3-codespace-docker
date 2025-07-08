@@ -13,7 +13,7 @@ docker compose up
 ```
 เปิดเบราเซอร์เข้า URL
 ```
-http://localhost:1979/vocbench3
-http://localhost:7200
+[http://localhost:1979/vocbench3](http://localhost:1979/vocbench3)
+[http://localhost:7200](http://localhost:7200)
 ```
 
