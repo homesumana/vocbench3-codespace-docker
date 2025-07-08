@@ -8,6 +8,7 @@ xxx
 cd helpers/graphdb-with-st-sails
 wget -N https://bitbucket.org/art-uniroma2/vocbench3/downloads/vocbench3-14.0.0-full.zip
 wget -N https://bitbucket.org/art-uniroma2/semantic-turkey/downloads/lucene-fts-plugin-graphdb-plugin.zip
+cp -a *.zip ../../14.0.0/
 cd ../..
 docker compose up
 ```
